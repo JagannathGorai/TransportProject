@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Balaram da/servlet-api-2.5.jar/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Balaram da/jsp-api-2.1.jar/jsp-api-2.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
